@@ -1,0 +1,6 @@
+1. Intro to Reactive console and elixir command
+2. Kernel
+3. Basic Data types
+4. Basic operators
+5. Lexical scope
+6. AST (Abstract syntax Tree), brief compilation flow of the code
