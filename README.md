@@ -1,2 +1,2 @@
-# Elixir_baiscs
+# Elixir_basics
 Basic concepts of Elixir
